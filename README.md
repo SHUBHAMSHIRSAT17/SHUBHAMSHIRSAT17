@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Shirsat</h1>
 <h3 align="center">A passionate Web Developer and Python Developer from India</h3>
+<img align = "right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
 
 - 🌱 I’m currently learning **react**
 
